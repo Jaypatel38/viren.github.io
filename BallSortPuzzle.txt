@@ -1,0 +1,17 @@
+{
+    "appName" : "Ball Sort Puzzle",
+    "packageName" : "",
+    "adPriority": "Admob",
+    "showAdmob" : "1",
+    "showFb" : "0",
+    "G_appId": "ca-app-pub-3940256099942544~3347511713",
+    "G_banner": "ca-app-pub-3940256099942544/6300978111",
+    "G_int": "ca-app-pub-3940256099942544/1033173712",
+    "G_native": "ca-app-pub-3940256099942544/2247696110",
+    "G_rewarded": "ca-app-pub-3940256099942544/5224354917",
+    "F_banner": "954339178709943_954339958709865",
+    "F_int": "954339178709943_954339322043262",
+    "F_nativeBanner": "954339178709943_954339755376552",
+    "F_rewarded": "",
+    "created_on": "2021-02-24 06:46:17"
+  }
