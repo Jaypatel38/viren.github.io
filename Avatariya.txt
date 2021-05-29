@@ -1,5 +1,5 @@
 {
-    "appName" : "Baby Face Predictor",
+    "appName" : "Avatariya",
     "packageName" : "",
     "adPriority": "Admob",
     "showAdmob" : "1",
