@@ -1,5 +1,5 @@
 {
-    "Account" : "Arpit"
+    "Account" : "Arpit",
     "appName" : "Baby Face Predictor",
     "packageName" : "",
     "adPriority": "Admob",
