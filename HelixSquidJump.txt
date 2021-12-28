@@ -1,6 +1,6 @@
 {
     "Account" : "Test",
-    "appName" : "Helix Poppy Jump",
+    "appName" : "Helix Squid Jump",
     "packageName" : "",
     "adPriority": "Admob",
     "showAdmob" : "1",
