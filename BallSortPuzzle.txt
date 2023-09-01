@@ -2,7 +2,7 @@
     "appName" : "Ball Sort Puzzle",
     "packageName" : "",
     "adPriority": "Admob",
-    "showAdmob" : "1",
+    "showAdmob" : "0",
     "showFb" : "0",
     "G_appId": "ca-app-pub-7849941073748221~7840812791",
     "G_banner": "/22387492205,22572494549/com.colorballsort.ballsort.waterballsort.bubblesort.ballsortpuzzle.Banner1.1644825104",
